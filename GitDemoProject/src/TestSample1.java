@@ -13,7 +13,7 @@ public class TestSample1 {
 		
 		int a = 10;
 		int b = a + c;
-		System.out.prntln("b is "+ b);
+		System.out.println("b is "+ b);
 	}
 
 }
