@@ -10,6 +10,10 @@ public class TestSample1 {
 		}else {
 			System.out.println("C is odd");
 		}
+		
+		int a = 10;
+		int b = a + c;
+		System.out.prntln("b is "+ b);
 	}
 
 }
